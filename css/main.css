@@ -228,5 +228,6 @@ button {
 
   .our-services__block {
     flex-wrap: wrap;
+    justify-content: center;
   }
 }
